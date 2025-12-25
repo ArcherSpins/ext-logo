@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <!-- coin background -->
+  <circle cx="400" cy="400" r="360" fill="#1E8E5A"></circle>
+
+  <!-- inner ring -->
+  <circle cx="400" cy="400" r="330" fill="none" stroke="#2FA36F" stroke-width="20"></circle>
+
+  <!-- letter E (perfectly centered, vector path) -->
+  <g fill="#FFFFFF" transform="translate(400 400)">
+    <!-- vertical stem -->
+    <rect x="-140" y="-200" width="80" height="400" rx="8"></rect>
+
+    <!-- top bar -->
+    <rect x="-140" y="-200" width="280" height="70" rx="8"></rect>
+
+    <!-- middle bar -->
+    <rect x="-140" y="-35" width="220" height="70" rx="8"></rect>
+
+    <!-- bottom bar -->
+    <rect x="-140" y="130" width="280" height="70" rx="8"></rect>
+  </g>
+</svg>
